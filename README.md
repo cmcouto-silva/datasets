@@ -9,3 +9,4 @@ Original sources:
 - [spotify_top_music](https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year)
 - [fifa-football-world-cup-dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/fifa-football-world-cup-dataset)
 - [steam games](https://www.kaggle.com/datasets/tamber/steam-video-games?resource=download)
+- [adult-census](https://www.kaggle.com/datasets/uciml/adult-census-income)
